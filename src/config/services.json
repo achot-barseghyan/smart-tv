@@ -5,11 +5,35 @@
     "link": "https://www.netflix.com",
     "backgroundColor": "#0b0b0b"
   },
+  "darkiworld": {
+    "name": "DarkiWorld",
+    "logo": "/logo-darkiworld.png",
+    "link": "https://www.darkiworld.com/",
+    "backgroundColor": "#0b0b0b"
+  },
+  "wawacity": {
+    "name": "Wawacity",
+    "logo": "/logo-wawacity.png",
+    "link": "https://www.wawacity.tokyo/",
+    "backgroundColor": "#fff"
+  },
+  "9Anime": {
+    "name": "9Anime",
+    "logo": "/logo-9anime.png",
+    "link": "https://9animetv.to/home",
+    "backgroundColor": "#0b0b0b"
+  },
   "primeVideo": {
     "name": "Prime Video",
     "logo": "/logo-primevideo.svg",
     "link": "https://www.primevideo.com/",
     "backgroundColor": "#fff"
+  },
+  "youtube": {
+    "name": "YouTube",
+    "logo": "/logo-youtube.svg",
+    "link": "https://www.youtube.com/",
+    "backgroundColor": "#f7f7f7"
   },
   "plex": {
     "name": "Plex",
@@ -39,12 +63,6 @@
     "name": "Arte",
     "logo": "/logo-arte.svg",
     "link": "https://www.arte.tv/",
-    "backgroundColor": "#f7f7f7"
-  },
-  "youtube": {
-    "name": "YouTube",
-    "logo": "/logo-youtube.svg",
-    "link": "https://www.youtube.com/",
     "backgroundColor": "#f7f7f7"
   }
 }
